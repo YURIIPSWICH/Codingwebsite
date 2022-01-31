@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <p align="center">
+        <font size="10 " color="blue "> WAS VERSCHWEIGT DIE WELT???</font> <br>
+
+
+    </p>
+
+    <video autoplay loop muted>
+        <source src="UFO video.mp4 ">
+    </video>
+
+    <p align="center ">
+        <font size="6 " color="red ">
+            ALIEN NEWS
+        </font>
+
+        <p align="center ">
+
+            <font size="5 " color="white ">
+
+                In letzer Zeit gab es in Deutschland und in vielen anderen ländern mehrere UFO sichtungen.
+                <h2 align="center ">
+                    Es gibt bereits verifizierte aufnahmen welche von der navy sind
+                </h2>
+            </font>
+
+        </p>
+
+        <p align="center ">
+
+            <font size="5 " color="white ">
+                <a href="2Seite.html ">
+                    <h7>KLICKE HIER FÜR MEHR INFORMATIONEN</h7>
+                </a>
+
+
+            </font>
+
+</html>
